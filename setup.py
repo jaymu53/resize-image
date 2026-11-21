@@ -27,6 +27,10 @@ setup(
         },
     version = version,
     description = "Commandline utility to resize an image.",
+    license = "MIT",
+    classifiers = [
+        "License :: OSI Approved :: MIT License",
+    ],
     long_description = long_descr,
     author = "Jay Mu",
     author_email = "me@jaymu.com",
