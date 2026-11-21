@@ -35,5 +35,6 @@ setup(
           'pillow',
           'python-resize-image',
       ],    
+    license_files = ["LICENSE.txt"],
 )
 
